@@ -1,5 +1,5 @@
 File name:             Template.1
-Class name:            Template._1
-Namespace:             Template__1
-Lowercase class name:  template._1
-Lowercase namespace:   template__1
+Namespace:             Template._1
+Class Name:            Template__1
+Lowercase namespace:   template._1
+Lowercase class name:  template__1
