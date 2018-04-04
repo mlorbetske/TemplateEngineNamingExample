@@ -1,0 +1,18 @@
+{
+  "author": "Mike Lorbetske",
+  "generatorVersions": "[1.0.0.0-*)",
+  "classifications": ["Examples"],
+  "description": "An example of full name specification",
+  "groupIdentity": "mlorbe.Example.Names",
+  "name": "Name Specification Example",
+  "precedence": "1000",
+  "identity": "mlorbe.Example.Names",
+  "shortName": "naming-example",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Template.1",
+  "preferNameDirectory": true,
+  "defaultName": "MyProject"
+}
